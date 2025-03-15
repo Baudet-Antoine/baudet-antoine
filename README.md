@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚹 About Me:
 🕹️ I’m currently working on an independent video game<br>🥼 I’m looking for an Internship in the data science field<br>🌱 I’m currently learning Machine Learning<br>
 
 
